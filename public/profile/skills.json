@@ -75,7 +75,19 @@
                 {
                     "icon": "images/skills/postman.png",
                     "title": "Postman"
+                },
+                {
+                    "icon": "images/skills/calendar.png",
+                    "title": "Calendar"
+                },
+                {
+                    "icon": "images/skills/canva.png",
+                    "title": "Canva"
+                },
+                {
+                    "icon": "images/skills/capcut.png",
+                    "title": "Capcut"
                 }
             ]
-    }
+        }
 ]}
