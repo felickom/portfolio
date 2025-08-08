@@ -50,6 +50,22 @@
                 "Linkedin",
                 "Carousel"
             ]
+        },
+          {
+            "image" : "images/projects/sgb-va.png",
+            "title": "SGB VA Student",
+            "bodyText": "- Participated as a student in the SGB VA program\n- Achieved a perfect score for class participation.",
+            "links": [
+                {
+                    "text": "Images",
+                    "href": "https://drive.google.com/drive/folders/1wGtccXfrZtV4XySezXFzliJBJZ_IGT9i?usp=sharing"
+                }
+            ],
+            "tags" : [
+                "Virtual Assistant",
+                "SMM",
+                "Instagram"
+            ]
         }
     ]
 }
